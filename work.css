@@ -1,0 +1,395 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	font-family: 'Poppins', sans-serif;
+
+}
+.container{
+	
+	max-height: 1000px;
+	max-width: 1000px;
+	background-color:FFFFFF;
+	margin-left: auto;
+	margin-right: auto;
+}
+.header{
+	display: flex;
+	height: 85px;
+	width: 1000px;
+	padding: 30px;
+	
+}
+
+.logo{
+margin-right: 350px;
+
+}
+
+ul{
+	
+	list-style: none;
+	margin: 0px;
+	padding: 0;
+}
+
+li{
+	display: inline-block;
+	padding: 10px;
+		font-size: 13px;
+	
+}
+a{
+	display: inline-block;
+	color: #000000;
+}
+
+hr{
+	
+	  height: 3px;
+	width: 1050px;
+    border: 0;
+    box-shadow: inset 0 12px 12px -12px rgba(0, 0, 0, 0.5);
+	
+	
+}
+
+.content2{
+	
+	height: 500px;
+	width: 1000px;
+	background-image: url("33806@2x.jpg");
+}
+.content21{
+	
+	height: 300px;
+	width: 1000px;
+}
+.content22{
+	
+	height: 200px;
+	width: 100px;
+	float: left;
+	
+}
+
+
+
+/* whitebox material */
+.content23{ /* whitebox*/
+	
+	height: 200px;
+	width: 600px;
+	margin-left: 250px;
+	background-color: #FFFFFF;
+	opacity: 0.93;
+}
+
+.content231{   /*text 1*/
+	height: 50px;
+	width: 600px;
+	font-size: 21px;
+	font-weight: bold;
+	padding-top: 25px;
+	padding-left: 30px;
+		
+}
+.content2311{
+	
+	height:50px;
+	width:600px;
+	font-size: 10px;
+	padding-left: 30px;
+	padding-top: 20px;
+}
+
+
+.content232{ /* boxes in white bhox */
+	
+	height:50px;
+	width: 600px;
+	padding-top: 20px;
+	padding-left: 30px;
+}
+
+
+/* white box end */
+
+
+
+
+/* box 3 with vid clip and text*/
+.content3{
+	
+	height: 400px;
+	width: 1000px;
+}
+
+/* play button image */
+.play{
+	height:150px;
+	width: 150px;
+	position: absolute;
+	margin-left: 210px;
+	padding-top: 180px;
+	opacity: 0.8;
+}
+.content31{
+	
+	height: 400px;
+	float: left;
+	width: 225px;
+	background-color: #3E9F99;
+}
+.content32{
+	
+	height: 400px;
+	width: 700px;
+	margin-left: 300px;
+	
+	
+}
+
+.fline{
+	height:50px;
+	width: 1000px;
+	
+}
+
+.sbox { /* 2 box for vid and text */
+	height:300px;
+width: 1000px;
+	
+}
+
+.sbox1{ /* vid pic*/
+	
+	height:300px;
+	width: 500px;
+	float: left;
+	padding-left: 100px;
+}
+
+.sbox2{ /* text*/
+	height:200px;
+	width: 300px;
+	padding-top: 30px;
+	margin-left: 500px;
+	padding-left: 80px;
+	margin-bottom: 80px;
+	 
+}
+
+/* vid clip pic */
+
+.vid{
+	height: 300px;
+	width: 500px;
+	float: left;
+	padding-top: 30px;
+	
+	
+	
+}
+
+
+.lline{
+	height:50px;
+	width:1000px;
+	
+}
+
+
+
+
+
+
+/* ------------*/
+
+/* two lines */
+.content4{
+	
+	height: 200px;
+	width:1000px;
+	font-weight: 600; 
+}
+
+.content41{
+	height:50px;
+	width:1000px;
+}
+
+.content42{
+	
+	height:150px;
+	width: 1000px;
+}
+.content421{
+	height:150px;
+	width: 500px;
+	float:left;
+}
+.content422{
+	height:150px;
+	width: 500px;
+	margin-left: 500px;
+}
+
+
+
+
+
+.content5{
+	
+	height: 200px;
+	width: 1000px;
+	
+	
+}
+
+.content51{
+	height:100px;
+	width: 1000px;
+	margin-left: 350px;
+	padding-top: 20px;
+}
+
+.content52{
+	height:100px;
+	width:1000px;
+	margin-left: 50px;
+}
+
+
+
+
+
+
+.content6{
+	
+	height: 200px;
+	width: 1000px;
+	
+	
+}
+
+.content61{
+	
+	height: 200px;
+	width: 400px;
+	float: left;
+	
+}
+.content62{
+	
+	height: 200px;
+	width: 600px;
+	margin-left: 400px;
+	background-image: url("Group 2395.jpg");
+		
+}
+
+
+
+
+.content7{
+	
+	height: 300px;
+	width:1000px;
+	
+}
+
+.content71{ /* tstimonial image*/ 
+	
+	height: 75px;
+	width: 1000px;
+	float: left;
+	padding-left: 250px;
+}
+.new71{ /* tyler nix image*/
+	
+	height:300px;
+	width:500px;
+	float:left;
+	padding-left: 140px;
+	
+}
+
+.new72{
+	
+	height:300px;
+	width:500px;
+	margin-left: 500px;
+	padding-top: 100px;
+	
+}
+
+
+.content72{
+	
+height: 200px;
+	width: 300px;
+	padding-top: 50px;
+	position: absolute;
+	
+}
+.content73{
+	height: 200px;
+	width: 700px;
+	margin-left: 400px;
+	padding-top: 30px;
+	padding-left: 100px;
+}
+
+.content731{
+	
+	height:200px;
+	width:700px;
+	
+}
+
+
+
+
+
+.content8{
+	
+	height: 300px;
+	width: 1000px;
+	
+}
+
+.new81{
+	height:50px;
+	width:1000px;
+}
+
+.content81{
+	
+	height: 300px;
+	width:300px;
+	float:left;
+	padding-top: 50px;
+}
+
+.content82{
+	height:300px;
+	width:700px;
+	margin-left: 350px;
+}
+
+.content9{
+	
+	height: 200px;
+	width: 1000px;
+	background-color: #000000;
+	padding-top: 50px;
+	 
+}
+.content92{
+	
+	height:5px;
+	color: #FDFDFD;
+	padding-top: 30px;
+	
+}
